@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FiCode, FiDatabase, FiServer, FiLayers, FiGithub, FiLinkedin, FiTwitter, FiArrowRight, FiExternalLink } from 'react-icons/fi';
+import { FiCode, FiDatabase, FiServer, FiLayers, FiGithub, FiLinkedin, FiTwitter, FiArrowRight } from 'react-icons/fi';
 import Footer from '../components/Footer';
 
 const skills = [

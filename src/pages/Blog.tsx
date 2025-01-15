@@ -106,7 +106,7 @@ const Blog: React.FC = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="flex flex-wrap gap-2"
             >
-              {categories.map((category, index) => (
+              {categories.map((category) => (
                 <button
                   key={category}
                   onClick={() => setSelectedCategory(category)}
