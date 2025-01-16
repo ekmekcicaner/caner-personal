@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="flex items-center space-x-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/ekmekcicaner"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-dark-text-secondary hover:text-primary dark:hover:text-primary-light transition-colors"
@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
               <FiGithub className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/ekmekcicaner"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-dark-text-secondary hover:text-primary dark:hover:text-primary-light transition-colors"
@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
               <FiLinkedin className="w-5 h-5" />
             </a>
             <a
-              href="https://twitter.com/yourusername"
+              href="https://twitter.com/ekmekcicanerr"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-dark-text-secondary hover:text-primary dark:hover:text-primary-light transition-colors"

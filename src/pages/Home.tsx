@@ -110,9 +110,9 @@ const Home: React.FC = () => {
                 className="flex justify-center md:justify-start space-x-6"
               >
                 {[
-                  { href: "https://github.com/yourusername", icon: <FiGithub className="w-6 h-6" />, label: "GitHub profilim" },
-                  { href: "https://linkedin.com/in/yourusername", icon: <FiLinkedin className="w-6 h-6" />, label: "LinkedIn profilim" },
-                  { href: "https://twitter.com/yourusername", icon: <FiTwitter className="w-6 h-6" />, label: "Twitter profilim" }
+                  { href: "https://github.com/ekmekcicaner", icon: <FiGithub className="w-6 h-6" />, label: "GitHub profilim" },
+                  { href: "https://linkedin.com/in/ekmekcicaner", icon: <FiLinkedin className="w-6 h-6" />, label: "LinkedIn profilim" },
+                  { href: "https://twitter.com/ekmekcicanerr", icon: <FiTwitter className="w-6 h-6" />, label: "Twitter profilim" }
                 ].map((social) => (
                   <a
                     key={social.href}
